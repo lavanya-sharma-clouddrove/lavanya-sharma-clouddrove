@@ -3,7 +3,7 @@
 <div align="center">
 <img src="./linkedin_profile_pic.png" alt="Photo" width="200" height="200" style="border-radius: 50%; object-fit: cover;">
 
-  <h1>Hi there! 👋 I'm Lavanya Sharma</h1>
+  <h1> Namaste (नमस्ते)! I'm Lavanya Sharma</h1>
   <p>👨‍💻 DevOps Enthusiast | 🌟 Passionate about Automation | 🛠️ Builder of Scalable Systems</p>
 </div>
 
@@ -92,7 +92,7 @@ Dynamic DevOps and Cloud Engineer with a pleasing, youthful personality and a ze
  <div align="center"> 
 <h2>🎵 Currently Vibing to </h2>
 
-[![Spotify](https://spotify-live.vercel.app/api/spotify)](https://open.spotify.com/user/mlixpspj92r8h9o4noyo8qjdq)
+[![Spotify](https://novatorem-alpha-nine.vercel.app/api/spotify)](https://open.spotify.com/user/mlixpspj92r8h9o4noyo8qjdq)
 
 
 <div align="center"> 
