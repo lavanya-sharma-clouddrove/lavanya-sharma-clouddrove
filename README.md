@@ -7,24 +7,24 @@
   <p>👨‍💻 DevOps Enthusiast | 🌟 Passionate about Automation | 🛠️ Builder of Scalable Systems</p>
 </div>
 
-<h3 align="center"> Interested in DevSecOps and Cloud. <br>
-Dynamic DevOps and Cloud Engineer with a pleasing, youthful personality and a zest for learning and innovation..</h3>
+<h4 align="center"> Interested in DevSecOps and Cloud. <br>
+Dynamic DevOps and Cloud Engineer with a pleasing, youthful personality and a zest for learning and innovation..</h4>
 <hr >
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lavanya-sharma-clouddrove" alt="lavanya-sharma-clouddrove" /></a> </p>
 
 
-- ### 🌱 &nbsp;I’m currently learning **Security Tools along with Cloud + DevOps** and upskilling myself
+- #### 🌱 &nbsp;I’m currently learning **Security Tools along with Cloud + DevOps** and upskilling myself
 
-- ### 👨‍💻&nbsp; All of my projects are available [here](https://github.com/lavanya-sharma-clouddrove?tab=repositories)
+- #### 👨‍💻&nbsp; All of my projects are available [here](https://github.com/lavanya-sharma-clouddrove?tab=repositories)
 
-- ### 👯&nbsp; I'm looking to collaborate to open-source
+- #### 👯&nbsp; I'm looking to collaborate to open-source
 
-- ### 📫&nbsp; Reach me out at <a href="mailto:22lavanya11@gmail.com"><b>22lavanya11@gmail.com</b></a>
+- #### 📫&nbsp; Reach me out at <a href="mailto:22lavanya11@gmail.com"><b>22lavanya11@gmail.com</b></a>
 
-- ### 👨‍💼&nbsp; I'm open to opportunities, get my Resume [here](https://drive.google.com/file/d/1Ww9h09JTkGt53Ov1RbXf5h4bZv8s_Hh5/view?usp=sharing)
+- #### 👨‍💼&nbsp; I'm open to opportunities, get my Resume [here](https://drive.google.com/file/d/1Ww9h09JTkGt53Ov1RbXf5h4bZv8s_Hh5/view?usp=sharing)
 
-- ### ⚡ Fun fact **⚙️ My favorite hobby? Writing scripts to automate my hobbies!**
+- #### ⚡ Fun fact **⚙️ My favorite hobby? Writing scripts to automate my hobbies!**
 
 <h3 align="center">Connect with me 🤝 <br> </h3>
 <p align="center">
