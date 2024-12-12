@@ -102,6 +102,6 @@ Dynamic DevOps and Cloud Engineer with a pleasing, youthful personality and a ze
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lavanya-sharma-clouddrove&show_icons=true&locale=en&theme=onedark" alt="Lavanya-Sharma" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lavanya-sharma-clouddrove&theme=onedark" alt="Lavanya-Sharma" /></p>
-
+<!---<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lavanya-sharma-clouddrove&theme=onedark" alt="Lavanya-Sharma" /></p>
+--->
 </div>
